@@ -151,9 +151,9 @@ Each project in this repository is designed to help you gain skills in AI, machi
 
 If you have any questions or would like to contribute in a different capacity, feel free to reach out:
 
-- Email: [your-email@example.com](mailto:2236767.cse.cec@cgc.edu.in)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/dipusingh02)
-- GitHub: [Your GitHub Profile](https://github.com/dipusingh02)
+- Email: [2236767.cse.cec@cgc.edu.in](mailto:2236767.cse.cec@cgc.edu.in)
+- LinkedIn: [https://www.linkedin.com/in/dipusingh02/](https://www.linkedin.com/in/dipusingh02)
+- GitHub: [https://github.com/dipusingh02](https://github.com/dipusingh02)
 
 
 
